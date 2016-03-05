@@ -1,0 +1,22 @@
+{
+	"name":"nagios-osx-desktop-notifications",
+	"description":"Checks Nagios/Icinga status and sends desktop notifications",
+	"version":"0.0.1",
+	"homepage":"https://github.com/christophlehmann/nagios-osx-desktop-notifications",
+	"author":{
+		"name":"Christoph Lehmann",
+		"email":"post@christophlehmann.eu",
+		"url":"http://christophlehmann.eu"
+	},
+	"dependencies": {
+		"node-osx-notifier": "0.1.x"
+	},
+	"repository":{
+		"type":"git",
+		"url":"git://git@github.com/christophlehmann/nagios-osx-desktop-notifications.git"
+	},
+	"bugs":{
+		"url":"https://github.com/github.com/christophlehmann/nagios-osx-desktop-notifications/issues"
+	},
+	"keywords":["osx","desktop notifications","nagios", "icinga"]
+}
